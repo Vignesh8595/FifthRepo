@@ -1,7 +1,3 @@
 Hello..
 
-Shall we start some magic.
-
-
-
-Going to second changes in this.
+Shall we start some magic
